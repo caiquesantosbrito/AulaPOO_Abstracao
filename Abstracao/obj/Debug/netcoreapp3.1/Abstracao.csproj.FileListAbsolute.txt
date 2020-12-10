@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.exe
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.deps.json
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\caisb\OneDrive\Desktop\Abstração POO\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.genruntimeconfig.cache
